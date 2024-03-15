@@ -8,7 +8,7 @@
     Total Number of Movies and TV Shows
     Identifying Top 10 Countries by Movies and TV Shows
  Dshboard:
- ![Screenshot 2024-03-12 120419](https://github.com/shreyapok/Netflix-PowerBI-Dashboard/assets/162877795/2e5acc06-ff9f-47fd-855a-9024608b956b)
+ ![Capture](https://github.com/shreyapok/Netflix-PowerBI-Dashboard/assets/162877795/d562d8eb-2c34-478f-9799-f415a3e0fa36)
 
  
 Visualization Tools Used : PowerBI
